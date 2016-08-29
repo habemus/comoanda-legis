@@ -172,7 +172,7 @@
     return [
       '<div class="legis-info">',
         '<div class="legis-tipo-doc">',
-          legisData['Tipo de documento'],
+          legisData['Título do documento'],
         '</div>',
         '<div class="legis-aspecto">',
           legisData['Aspectos'].join(', '),
